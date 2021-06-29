@@ -1,0 +1,13 @@
+.tic-button {
+	height: 100px;
+	width: 100px;
+	margin: 3px;
+	font-size: 3em;
+	outline: none;
+	border: none;
+}
+
+.tic-button:hover {
+	background-color: rgb(157, 152, 152);
+	border: 1px solid rgb(157, 152, 152);
+}
